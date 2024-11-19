@@ -1,0 +1,122 @@
+
+{
+    "games": [
+      {
+        "id": "1",
+        "title": "Elden Ring",
+        "developerId": 1,
+        "genre": "Action RPG",
+        "releaseYear": 2022,
+        "platform": "PC, PlayStation, Xbox",
+        "rating": 9.6,
+        "price": 59.99,
+        "coverArt": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2000/YMUoJUYNX0xWk6eTKuZLr5Iw.jpg?w=5000&thumb=false"
+      },
+      {
+        "id": "2",
+        "title": "Resident Evil 7",
+        "developerId":2,
+        "genre": "Horror",
+        "releaseYear": 2017,
+        "platform": "PC, PlayStation, Xbox",
+        "rating": 9.9,
+        "price": 89.99,
+        "coverArt": "https://avatars.mds.yandex.net/i?id=8b7535a7d2e543c3f3407d33f5958367_l-5364647-images-thumbs&n=13"
+      },
+      {
+        "id": "3",
+        "title": "Hollow Knight",
+        "developerId": 3,
+        "genre": "Metroidvania",
+        "releaseYear": 2017,
+        "platform": "PC, Switch, Xbox, PlayStation",
+        "rating": 9.3,
+        "price": 14.99,
+        "coverArt": "https://vkplay.ru/hotbox/content_files/news/2018/7/033f96d.jpeg"
+      },
+      {
+        "id": "4",
+        "title": "The Witcher 3: Wild Hunt",
+        "developerId": 4,
+        "genre": "Action RPG",
+        "releaseYear": 2015,
+        "platform": "PC, PlayStation, Xbox, Switch",
+        "rating": 9.7,
+        "price": 29.99,
+        "coverArt": "https://avatars.mds.yandex.net/i?id=101b0a9fd055318921afa973fb127a35e6463259-10577272-images-thumbs&n=13"
+      },
+      {
+        "id": "5",
+        "title": "Stardew Valley",
+        "developerId": 5,
+        "genre": "Simulation",
+        "releaseYear": 2016,
+        "platform": "PC, Switch, Xbox, PlayStation",
+        "rating": 9.2,
+        "price": 14.99,
+        "coverArt": "https://avatars.mds.yandex.net/i?id=9e96959a8f208ab268039587581aacdb6ca1301c-10744014-images-thumbs&n=13"
+      },
+      {
+        "id": "6",
+        "title": "Read Dedeption",
+        "developerId": 6,
+        "genre": "Adventure",
+        "releaseYear": 2016,
+        "platform": "PC, Switch, Xbox, PlayStation",
+        "rating": 9.3,
+        "price": 34.56,
+        "coverArt": "https://avatars.mds.yandex.net/i?id=9d5c45c0acbbdaeafb61df538d9956ac_l-5433865-images-thumbs&n=13"
+      }
+    ],
+    "developers": [
+      {
+        "id": "1",
+        "name": "FromSoftware",
+        "country": "Japan",
+        "notableTitles": [
+          "Dark Souls",
+          "Sekiro: Shadows Die Twice",
+          "Elden Ring"
+        ],
+        "foundingYear": 1986
+      },
+      {
+        "id": "2",
+        "name": "Santa Monica Studio",
+        "country": "USA",
+        "notableTitles": [
+          "God of War",
+          "God of War Ragnarok"
+        ],
+        "foundingYear": 1999
+      },
+      {
+        "id": "3",
+        "name": "Team Cherry",
+        "country": "Australia",
+        "notableTitles": [
+          "Hollow Knight"
+        ],
+        "foundingYear": 2014
+      },
+      {
+        "id": "4",
+        "name": "CD Projekt Red",
+        "country": "Poland",
+        "notableTitles": [
+          "The Witcher 3: Wild Hunt",
+          "Cyberpunk 2077"
+        ],
+        "foundingYear": 2002
+      },
+      {
+        "id": "5",
+        "name": "ConcernedApe",
+        "country": "USA",
+        "notableTitles": [
+          "Stardew Valley"
+        ],
+        "foundingYear": 2012
+      }
+    ]
+  }
